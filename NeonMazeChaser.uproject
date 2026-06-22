@@ -1,0 +1,13 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.5",
+  "Category": "Games",
+  "Description": "Original retro maze chase game.",
+  "Modules": [
+    {
+      "Name": "NeonMazeChaser",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}
