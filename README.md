@@ -30,11 +30,9 @@ Unreal Engine 5.5とC++で制作した、オリジナルのレトロ迷路ゲー
 
 ## Windows版
 
-Windows版は次のフォルダーにあります。
+[GitHub ReleasesからWindows版をダウンロード](https://github.com/tamtam19641002-jpn/neon-maze-chaser-ue5/releases/latest)
 
-`../NeonMazeChaser_Windows_v0.2.0/Windows/NeonMazeChaser.exe`
-
-配布時は`exe`だけを取り出さず、`Windows`フォルダー内の構成を維持してください。
+ZIPを展開し、`Windows/NeonMazeChaser.exe`を実行してください。`exe`だけを取り出さず、展開後のフォルダー構成を維持してください。
 
 ## 必要環境
 
